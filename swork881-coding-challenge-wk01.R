@@ -5,7 +5,7 @@
 #install tidyverse packages
 install.packages("tidyverse", dependencies = TRUE)
 
-#load tidyverse
+#load tidyverse library
 library(tidyverse)
 
 # read data in (the data file is LHS_exercise.csv inside the data folder)
