@@ -15,7 +15,7 @@ data01<- read_csv("LHS_exercise.csv")
 glimpse (data01)
 
 #How many variables are there in the data? (hint: check your environment window)
-
+#268 observations and 7 variables
 #How many observations are there?
 
 
